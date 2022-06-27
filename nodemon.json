@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "sparshdsa",
+        "MONGO_PASSWORD": "moose",
+        "STRIPE_KEY": "sk_test_51LCWKlSBG2wGum42btuBn0PyRGIQuni58LS8s3pwCbYz5MCiKQSSj750DJ6AwWFWPsmWEGUpo5DcrDDilIC7zzky00MOo1kiRQ"
+    }
+}
